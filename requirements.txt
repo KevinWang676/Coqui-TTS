@@ -5,7 +5,7 @@ inflect
 jieba
 librosa==0.8.0
 matplotlib
-numpy==1.19.5
+numpy
 pandas
 pypinyin
 pysbd
@@ -15,12 +15,12 @@ soundfile
 tensorboardX
 torch>=1.7
 tqdm
-numba==0.53
+numba
 umap-learn==0.5.1
 anyascii
 coqpit
 # japanese g2p deps
-mecab-python3==1.0.3
+mecab-python3
 unidic-lite==1.0.8
 # gruut+supported langs
 gruut[cs,de,es,fr,it,nl,pt,ru,sv]~=1.2.0
